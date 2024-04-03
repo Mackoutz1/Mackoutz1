@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil! 😁 Prazer em te conhecer, meu nome é Miguel.
-## Welcome to my profile! 😁 nice to meet you, my name is Miguel
+## Welcome to my profile! 😁 nice to meet you, my name is Miguel.
 <br>
 <br>
  <div>
