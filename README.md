@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<div>
 ## 🚀 About Me
 
 ```text
@@ -18,7 +18,7 @@
 🔥 Technology Enthusiast
 🌱 Always Learning
 🚀 Building Cool Things
-
+</div>
 🛠️ Technologies & Tools
 <div align="center">
 💻 Languages
