@@ -1,26 +1,20 @@
-## Bem-vindo(a) ao meu perfil! 😁 Prazer em te conhecer, meu nome é Miguel.
-## Welcome to my profile! 😁 nice to meet you, my name is Miguel.
-<br>
-<br>
- <div>
-   <a href="https://github.com/Mackoutz1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mackoutz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackoutz1&layout=compact&langs_count=6&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
-<br>
-<br>
-<br>
+<div align="center">
 
-## Minhas Redes Sociais !
- 
-<div>
-  <a href="https://www.instagram.com/miguel_hennr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguel-henrique-figueiredo-1903ba269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+# 👨‍💻 HELLO, WORLD! I'M A DEVELOPER 🚀
+
+### `Code • Create • Learn • Repeat`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Developer+%F0%9F%92%BB;Building+ideas+into+reality+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
+
 </div>
+
+---
+
+## 🚀 About Me
+
+```text
+👨‍💻 Developer
+🧠 Problem Solver
+🔥 Technology Enthusiast
+🌱 Always Learning
+🚀 Building Cool Things
