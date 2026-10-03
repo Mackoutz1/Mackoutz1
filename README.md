@@ -3,21 +3,12 @@
 # 👨‍💻 HELLO, WORLD! I'M A DEVELOPER 🚀 
 
 ### `Code • Create • Learn • Repeat`
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Developer+%F0%9F%92%BB;Building+ideas+into+reality+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
 
+## 🛠️💻 Languages & Tools
+<img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode" />
 
-🛠️ Technologies & Tools
-<div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-<br>
-🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-<br>
-🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </div>
-📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mackoutz1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackoutz1&layout=compact&langs_count=8&theme=tokyonight"/> </div>
 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Mackoutz1&theme=tokyonight&hide_border=false" /> </div>
