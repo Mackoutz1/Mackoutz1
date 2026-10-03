@@ -14,6 +14,12 @@
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Mackoutz1&theme=tokyonight&hide_border=false" /> </div>
 🐍 My Contributions
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
-<div align="center">
+
+---
+## 📬 Contact
+
+- *Email:* [miguell.henriquee06@gmail.com](mailto:miguell.henriquee06@gmail.com)  
+- *LinkedIn:* [linkedin.com/in/miguel-henrique-figueiredo-1903ba269](https://www.linkedin.com/in/miguel-henrique-figueiredo-1903ba269)
+
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"> </div> ```
