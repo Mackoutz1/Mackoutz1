@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Hello! I'm Miguel Henrique Figueiredo 🚀 
+# 👨‍💻 Hello! I'm Miguel Henrique Figueiredo 👨‍💻
 
 ### 
 </div>
+💻 I'm a developer passionate about technology, programming, and turning ideas into projects.
 
+🚀 Currently, I'm studying and working on projects focused on software development, always looking to learn new technologies and improve my skills.
 
 ## 🛠️💻 Languages & Tools
 <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode" />
