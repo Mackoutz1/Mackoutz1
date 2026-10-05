@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 HELLO, WORLD! I'M A DEVELOPER 🚀 
+# 👨‍💻 Hello! I'm Miguel Henrique Figueiredo 🚀 
 
 ### 
 </div>
